@@ -10,6 +10,7 @@ import MobileCoreServices
 import UIKit
 
 /// A class for selecting and taking photos
+@objcMembers
 open class FDTakeController: NSObject {
 
     // MARK: - Initializers & Class Convenience Methods
